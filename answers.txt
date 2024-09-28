@@ -4,3 +4,6 @@ Answer: We use git for version control. GitHub stores files remotely so multiple
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to linguistics. We can use it to see how the population of a specific language changes over time.
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines the contents from one branch into another and leaves the first branch intact. Rebasing takes the changes made on one branch and applies them to the main branch. 
