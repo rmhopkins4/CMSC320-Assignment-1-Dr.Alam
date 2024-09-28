@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: We use git for version control. GitHub stores files remotely so multiple people can work on them at the same time. It makes merge issues simpler and supports good workflow practices.
